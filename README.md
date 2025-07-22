@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm Victor Owinyo, a curious and creative software engineering enthusiast currently exploring automation workflows, AI-powered education, and chemistry learning tools.  
+I'm a curious and creative software engineering enthusiast currently exploring automation workflows, AI-powered education, and chemistry learning tools.  
 I thrive at the intersection of code, pedagogy, and storytelling—building projects that make learning more engaging and accessible.  
 
 Currently part of the **PLP Academy Software Engineering Essentials** program, I'm sharpening my skills in Git, Python (among other programing languages), and project management while contributing to open-source and hackathon-ready ideas.  
