@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor Owinyo
 
-<!--
-**vicowinyo-001/vicowinyo-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Essentials Scholar at PLP Academy  
+🧠 Passionate about automation, creative coding, and educational tech  
+📚 Exploring AI-powered learning tools and chemistry apps  
+💻 Currently building: [Fun Calculator](https://github.com/vicowinyo-001/fun-calculator)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+
+- 🧪 Chemistry + Code
+- 🤖 AI in Education
+- ⚙️ Automation Workflows (Apps Script, Make.com)
+- 🧠 Educational Psychology
+- 🛠️ Git & GitHub Projects
+
+---
+
+## 📌 Featured Projects
+
+- [Fun Calculator](https://github.com/vicowinyo-001/fun-calculator) — A playful Python CLI calculator
+- [Hackathon Prep](#) — Coming soon!
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [GitHub](https://github.com/VictorOwinyo)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vyqturowinyo/)
+- ✉️ vicmcowinyo@outlook.com
+---
+
+> “Code is not just syntax—it’s a language of ideas.”  
